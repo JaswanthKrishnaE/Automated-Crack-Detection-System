@@ -1,0 +1,2 @@
+model_checkpoint_path: "fruits_classification_model_checkpoint"
+all_model_checkpoint_paths: "fruits_classification_model_checkpoint"
