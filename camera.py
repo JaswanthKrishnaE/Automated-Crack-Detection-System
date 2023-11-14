@@ -1,8 +1,13 @@
+# working code for using camera for object dertection purposes
+# used yolo v8 model for object dertection 
+# classifying 2 objects
+# 1.scratched paint
+# 2.crack 
+
 from ultralytics import YOLO
 import cv2
 import time
 
-# load yolov8 model
 model = YOLO('/home/jaswanth/projects/Wall-Crack-Detection/models/objectDetection/best.pt')
 
 cap = cv2.VideoCapture(0)
