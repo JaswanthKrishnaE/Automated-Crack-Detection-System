@@ -9,7 +9,8 @@ This project focuses on recognizing diseases in guava fruits using a convolution
 3. [Usage](#usage)
 4. [Folder Structure](#folder-structure)
 6. [Dataset](#dataset)
-5. [Results](#results)
+7. [Results](#results)
+8. [Trained Models](#results)
 
 ## Introduction
 Cracks in walls represent a serious concern for the structural stability of buildings, and their early detection is crucial to prevent further damage and costly repairs. Traditional methods, like manual inspections, are not only time-consuming but also subjective, relying on human judgment and susceptible to errors.
