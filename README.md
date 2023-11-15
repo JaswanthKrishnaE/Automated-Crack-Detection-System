@@ -50,7 +50,7 @@ python main.py
 
 The project is organized with the following folder structure:
 
-- **icps project presentation.pptx**: Presentation slides for the ICPS project.
+- **Automated Crack Detection System.pptx**: Presentation slides for the ICPS project.
 
 - **main.py**: The main Python script that executes the crack detection system.
 
@@ -78,7 +78,7 @@ The project is organized with the following folder structure:
 
 ## Results
 
-The results of the crack detection system, along with detailed insights and visualizations, are presented in the [Automated Crack Detection System](). Please refer to the slides for a comprehensive overview of the project outcomes.
+The results of the crack detection system, along with detailed insights and visualizations, are presented in the [Automated Crack Detection System](https://github.com/JaswanthKrishnaE/Automated-Crack-Detection-System/blob/jaswanth/Automated%20Crack%20Detection%20System.pptx). Please refer to the slides for a comprehensive overview of the project outcomes.
 
 ## Trained Models
 The trained models are stored in the `models` directory. These models have been fine-tuned to accurately classify different types of surface irregularities, including cracks and scratched paint.
