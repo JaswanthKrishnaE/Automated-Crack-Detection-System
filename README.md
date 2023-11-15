@@ -41,7 +41,7 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-### Usage
+## Usage
 To use the trained model through laptop camera 
 ```bash
 python main.py
@@ -68,7 +68,7 @@ The project is organized with the following folder structure:
 
 - **test.ipynb**: Jupyter notebook for testing or demonstrating specific functionalities.
 
-### Dataset
+## Dataset
 
 - [Wall Crack Detection Dataset](https://app.roboflow.com/indian-institute-of-information-technology-sricity/wall-crack-detection-drpsp/1)
   - Description: This dataset includes images for wall crack detection.
@@ -76,11 +76,11 @@ The project is organized with the following folder structure:
 - [Wall Crack Classification Dataset](https://app.roboflow.com/indian-institute-of-information-technology-sricity/wall-crack-classification/3)
   - Description: This dataset includes images for wall crack detection.
 
-### Results
+## Results
 
-The results of the crack detection system, along with detailed insights and visualizations, are presented in the [ICPS Project Presentation](icps%20project%20presentation.pptx). Please refer to the slides for a comprehensive overview of the project outcomes.
+The results of the crack detection system, along with detailed insights and visualizations, are presented in the [Automated Crack Detection System](). Please refer to the slides for a comprehensive overview of the project outcomes.
 
-### Trained Models
+## Trained Models
 The trained models are stored in the `models` directory. These models have been fine-tuned to accurately classify different types of surface irregularities, including cracks and scratched paint.
 
 Feel free to explore the presentation slides and the `models` directory for a deeper understanding of the project results.
