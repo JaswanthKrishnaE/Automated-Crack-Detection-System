@@ -1,7 +1,7 @@
 # Automated Crack Detection System
 
 ## Overview
-This project focuses on recognizing diseases in guava fruits using a convolutional neural network. It utilizes a custom model with a convolutional architecture to classify different disease classes.
+This project is to detect the 2 classes of the wall cracks on a naked wall , without any other objects interfearing. the model is built using YOLO V8. 
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -10,7 +10,7 @@ This project focuses on recognizing diseases in guava fruits using a convolution
 4. [Folder Structure](#folder-structure)
 6. [Dataset](#dataset)
 7. [Results](#results)
-8. [Trained Models](#results)
+8. [Trained Models](#Trained-Models)
 
 ## Introduction
 Cracks in walls represent a serious concern for the structural stability of buildings, and their early detection is crucial to prevent further damage and costly repairs. Traditional methods, like manual inspections, are not only time-consuming but also subjective, relying on human judgment and susceptible to errors.
